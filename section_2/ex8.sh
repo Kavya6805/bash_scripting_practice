@@ -1,5 +1,5 @@
 
-#! /bin/shell
+#! /bin/bash
 
 user_input=$@
 

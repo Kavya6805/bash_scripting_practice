@@ -1,5 +1,5 @@
 
-#! /bin/shell
+#! /bin/bash
 
 read -p "Enter file or directory: " user_input
 

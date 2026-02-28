@@ -1,4 +1,4 @@
-#! /bin/shell
+#! /bin/bash
 
 WORDS="man bear pig dog cat sheep"
 
