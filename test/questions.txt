@@ -1,0 +1,10 @@
+1- take a backup of directory daily using script.
+2- write a script that 
+  2.1- accepts a arugument.
+  2.2- if arg is 
+    2.2.1- start - print starting application
+    2.2.2- stop - print stoping application.
+    2.2.3- status - print application is running on start/stop.
+    2.2.4- invalid option.
+3- take 2 inputs -name and number - abc & 123 
+    check name and number given by user.
